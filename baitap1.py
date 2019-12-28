@@ -1,0 +1,10 @@
+stringInput = input("Nhap vao chuoi ki tu: ")
+multiplyStringInput = stringInput*5
+print (multiplyStringInput)
+print (len(stringInput))
+print (stringInput[3:7])
+print (stringInput.upper())
+print (stringInput.replace('a', 'z'))
+print (stringInput.split(','))
+print (stringInput[3:len(stringInput)])
+print (stringInput[3:])
